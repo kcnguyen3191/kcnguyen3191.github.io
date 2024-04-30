@@ -41,6 +41,9 @@ Selected awards and fellowships
 * Graduate Research Fellowship, Fall 2021 to Present
   * [National Science Foundation](https://www.nsf.gov/)
 
+* Winton-Rose Award, 2024
+  * [Department of Mathematics](https://math.sciences.ncsu.edu/), North Carolina State University
+
 * H. T. Banks Graduate Award, 2020 to 2023
   * [Center for Research in Scientific Computation](https://crsc.ncsu.edu/), North Carolina State University
   
