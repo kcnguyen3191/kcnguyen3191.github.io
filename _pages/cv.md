@@ -11,12 +11,16 @@ My full CV is [here](/files/Kyle_Nguyen_CV.pdf).
 
 Education
 ======
-* Ph.D in Biomathematics, North Carolina State University, May 2024 (expected)
+* Ph.D in Biomathematics, North Carolina State University, May 2024
 * B.S. in Computational Mathematical Sciences, Arizona State University, May 2019
 
 Research experience
 ======
-* Graduate Research Assistant, Fall 2019 to Present
+* Postdoctoral Appointee, May 2024 to Present
+  * Sandia National Laboratories
+  <!-- * Supervisor: Kevin B. Flores -->
+
+* Graduate Research Assistant, Fall 2019 to Spring 2024
   * [Flores Lab](https://kbflores.wordpress.ncsu.edu/), North Carolina State University
   <!-- * Supervisor: Kevin B. Flores -->
 
@@ -38,7 +42,7 @@ Research experience
 
 Selected awards and fellowships
 ======
-* Graduate Research Fellowship, Fall 2021 to Present
+* Graduate Research Fellowship, Fall 2021 to May 2024
   * [National Science Foundation](https://www.nsf.gov/)
 
 * Winton-Rose Award, 2024
