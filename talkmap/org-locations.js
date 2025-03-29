@@ -1,8 +1,18 @@
 var addressPoints = [
   [
+    "Fort Worth, TX, USA",
+    32.753177,
+    -97.3327459
+  ],
+  [
     "Tokyo, Japan",
-    35.6821936,
-    139.762221
+    35.6768601,
+    139.7638947
+  ],
+  [
+    "Los Alamos, NM, USA",
+    35.88137,
+    -106.298959
   ],
   [
     "Durham, NC, USA",
@@ -16,8 +26,8 @@ var addressPoints = [
   ],
   [
     "Chicago, IL, USA",
-    41.8527815,
-    -87.6639988
+    41.8755616,
+    -87.6244212
   ],
   [
     "Chapel Hill, NC, USA",
@@ -26,7 +36,7 @@ var addressPoints = [
   ],
   [
     "Riverside, CA, USA",
-    33.7219991,
-    -116.0372472
+    33.9824949,
+    -117.374238
   ]
 ];
