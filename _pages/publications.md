@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 \* equal contribution
-1. A Malik\*, __K Nguyen\*__, J Nardini, C Krona, K Flores, S Nelander. [Mathematical Modeling of Multicellular Tumor Spheroids Quantifies Inter-Patient and Intra-Tumor Heterogeneity](https://doi.org/10.21203/rs.3.rs-3920068/v1). *submitted*.
+1. A Malik\*, __K Nguyen\*__, J Nardini, C Krona, K Flores, S Nelander. [Mathematical Modeling of Multicellular Tumor Spheroids Quantifies Inter-Patient and Intra-Tumor Heterogeneity](https://doi.org/10.1038/s41540-025-00492-3). *npj System Biology and Applications* 11, 20 (2025).
 
 1. __K Nguyen__, C Jameson, S Baldwin, J Nardini, R Smith, J Haugh, K Flores. [Quantifying collective motion patterns in mesenchymal cell populations using topological data analysis and agent-based modeling](https://doi.org/10.1016/j.mbs.2024.109158). *Mathematical Biosciences*. 370 (2024) 109158.
 
